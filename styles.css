@@ -75,6 +75,7 @@ header {
     max-width: 100%;
     height: auto;
     object-fit: contain;
+    border-radius: 8px;
 }
 
 .placeholder-tablet {
@@ -190,7 +191,7 @@ header {
 }
 
 .bottom-bar {
-    width: 1920px;
+    width: 4000px;
     background: #62B4F2;
     display: flex;
     justify-content: center;
